@@ -1,6 +1,6 @@
 # first_flutter_app
 
-A new Flutter project.
+A new Flutter project. An app quiz for finding out whether people have similar opinions and interests. Part of the Academind Udemy Flutter course. https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
 
 ## Getting Started
 
